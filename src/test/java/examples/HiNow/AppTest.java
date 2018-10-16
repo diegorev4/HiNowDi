@@ -33,7 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-    	//System.out.println(App.dameLaHora().length());
         assertTrue( App.dameLaHora().length()==18 );
     }
 }
